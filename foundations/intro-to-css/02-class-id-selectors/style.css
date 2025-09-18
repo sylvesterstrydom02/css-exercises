@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+#blueDiv {
+    color: blue;
+    font-size: 36px;
+}
+
+#greenDiv {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.pinkBg {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.coolerClass {
+    font-size: 24px;
+}
